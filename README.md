@@ -20,6 +20,12 @@ Using this powerful technology, we aim to uncover what aspects of neuronal activ
 
 Behavior is a major driver of cortical activity, so measuring it precisely is essential to interpret what the all-optical read–write experiments reveal. This pipeline can help us understand how motor variables are encoded in the brain, and how externally read information might constrain the internal processing of neuronal signals.
 
+---
+<img src="tuned_inhibition_model.gif" width="1000">
+
+*Computational modeling predicts the outcomes of complex functional interactions across excitatory and inhibitory subpopulations. As tuned inhibition shifts from anti-tuned to co-tuned (κ_inh crossing zero, where inhibition becomes like-to-like), the population tuning curve sharpens and input patterns are decorrelated at the output — a candidate circuit mechanism for feature-specific cortical representations.*
+
+
 <details>
   <summary><h2>📄 CV</h2></summary>
 
