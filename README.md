@@ -23,7 +23,7 @@ Behavior is a major driver of cortical activity, so measuring it precisely is es
 ---
 <img src="tuned_inhibition_model.gif" width="1000">
 
-*Computational modeling predicts the outcomes of complex functional interactions across excitatory and inhibitory subpopulations. As tuned inhibition shifts from anti-tuned to co-tuned (κ_inh crossing zero, where inhibition becomes like-to-like), the population tuning curve sharpens and input patterns are decorrelated at the output — a candidate circuit mechanism for feature-specific cortical representations.*
+*Computational modeling predicts the outcomes of complex functional interactions across excitatory and inhibitory subpopulations. In this example, as tuned inhibition shifts from anti-tuned to co-tuned (κ_inh crossing zero, where inhibition becomes like-to-like), the population tuning curve sharpens and input patterns are decorrelated at the output — dynamically adjusting the representational precision*
 
 
 <details>
