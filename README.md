@@ -1,7 +1,7 @@
 # Mora Ogando
-_Postdoctoral Researcher, UC Berkeley_
+Neuroscientist, UC Berkeley.
 
-I study cortical microcircuits, sensory computations and sensorimotor learning using two-photon holographic optogenetics.
+I study cortical microcircuits, sensory computations and sensorimotor learning using two-photon holographic optogenetics, behavioral psychophisics, machine learning tools and custom mechanistic models.
 
 <img src="profile.gif" width="1000">
 
