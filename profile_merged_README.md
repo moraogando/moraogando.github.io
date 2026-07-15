@@ -14,7 +14,7 @@ Using 3D-SHOT and large scale multiplane recordings, we can simultanously activa
 Using this powerful technology, we aim to uncover what aspects of neuronal activity are necessary and sufficient for perception, decision-making and learning.
 
 ---
-<img src="behavior_pipeline.gif" width="1000">
+<img src="vid_synced_qc.gif" width="1000">
 
 *Reading behavior out of the same head-fixed sessions. Face-and-body video are analyzed to extract whisking, paw movement, facial motion, pupil and gaze — unifying Facemap, DeepLabCut and Lightning Pose (each with its own output format and frame index) onto one shared timeline. Left: the tracked keypoints (dots) and analysis regions (cyan boxes) on the video; right: the extracted signals, with a marker locked to the current frame.*
 
